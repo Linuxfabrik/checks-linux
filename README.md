@@ -10,6 +10,6 @@ The checks are being developed on **[GitLab](https://git.linuxfabrik.ch)**, a de
 For more information about Linuxfabrik and its projects, please refer to:
 
 -    the **[Linuxfabrik Website](https://www.linuxfabrik.ch)**
--    upcoming **[Linuxfabrik Trainings for Icinga](hhttps://www.linuxfabrik.ch/schulungen/icinga)**
+-    upcoming **[Linuxfabrik Trainings for Icinga](https://www.linuxfabrik.ch/schulungen/icinga)**
 -    the **[Linuxfabrik Blog](https://blog.linuxfabrik.ch)**
 -    the **[Linuxfabrik Check Plugin Repository on our GitLab Server](https://git.linuxfabrik.ch/linuxfabrik-icinga-plugins/checks-linux)**
