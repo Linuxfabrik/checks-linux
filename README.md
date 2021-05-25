@@ -1,6 +1,6 @@
 # Python-based Checks for Icinga, Nagios etc.
 
-Linuxfabrik GmbH from Zurich, Switzerland provides various Python 2 based check plugins for Nagios and compatible monitoring systems like Icinga. All checks are Open Source and tested on CentOS 7 Minimal and Fedora >= 30.
+Linuxfabrik GmbH from Zurich, Switzerland provides various Python based check plugins for Nagios and compatible monitoring systems like Icinga. All checks are Open Source and tested on CentOS 7+ and Fedora 30+.
 
 
 ## Contributing
